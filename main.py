@@ -7,7 +7,7 @@ def main():
     print("\n--- Generating Education Roadmap ---")
     roadmap1 = agent.generate_roadmap(
         track="Education & Technology",
-        student_name="A.Dayanandan",
+        student_name="Vivek",
         current_info="Knows Python and SQL",
         goal="Data Scientist"
     )
